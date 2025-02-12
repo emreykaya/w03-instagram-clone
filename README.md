@@ -1,4 +1,4 @@
-# Instagram Clone Web Page
+# Patika+ Frontend Bootcamp Hafta-03 / Ödev-02  (Instagram Klonu)
 
 Bu proje, Instagram'a benzeyen basit bir web sayfası tasarımını içerir. Sayfa, kullanıcıların fotoğrafları paylaşabileceği, beğenebileceği ve yorum yapabileceği temel özelliklere sahip bir şablondur.
 
